@@ -1,0 +1,1 @@
+Do you Forget important dates like Birthdays, anniversery dates, exam dates and other important dates. This is a Day adder project in which you can add important dates along with their description and can save it forever. So now, no need to remember dates as you can add all dates in Day adder.
